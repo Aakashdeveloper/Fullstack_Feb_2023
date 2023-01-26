@@ -1,7 +1,16 @@
-HTML
-CSS
+https://code.visualstudio.com/ > Install
+https://nodejs.org/en/ > Install
+https://git-scm.com/downloads > Install
+https://github.com/ > Create Account
+https://github.com/Aakashdeveloper > Follow
+
+HTML > Raw structure
+CSS > Look and feal
+JavaScript > Logical part
+4-5 Classes
 Bootstrap  > 6-8 Classes
-JavaScript > 4-5 Classes
+
+
 
 NodeJs+Express+Mongo
 (Rest Full Api)
@@ -23,3 +32,18 @@ Deployment
 > Docker Basics
 > Nginx Basics
 > Jenkins
+
+
+////////////////////////////////////////////////////////////////
+Tags
+html > Wrapper
+head >  Any script Js, css and title of page
+body > All content that is visible to the user
+
+/////////
+Block Level
+> That start from new line
+> Always take the full width of screen
+Inline
+> Start in same line
+> only take space required
